@@ -6,8 +6,8 @@
 
 本指南旨在为用户提供详尽的 **ChatGPT 中文版使用指南**，并整理国内常用的 **ChatGPT镜像网站** 与 **官方使用教程**，帮助您快速上手，不论是个人使用还是专业需求。
 
-**ChatGPT 中文版**入口：**[https://chat.chatgpt-chinese.com](https://chat.lanjing.pro)**   
-**ChatGPT 镜像网站**直达：**[https://xsimplechat.com/](https://xsimplechat.com/)**
+**ChatGPT 中文版**入口：**[https://xsimplechat.com/](https://xsimplechat.com/)**   
+**ChatGPT 镜像网站**直达：**[https://chat.chatgpt-chinese.com](https://chat.lanjing.pro)**
 
 ---
 
